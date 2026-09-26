@@ -1,0 +1,81 @@
+topic_id,topic,question_id,question
+W01,What are the Sydney Opera House car park opening hours?,W01Q01,When is the Sydney Opera House car park open?
+W01,What are the Sydney Opera House car park opening hours?,W01Q02,What hours does the Sydney Opera House car park operate?
+W01,What are the Sydney Opera House car park opening hours?,W01Q03,Can you tell me the opening hours of the Sydney Opera House car park?
+W01,What are the Sydney Opera House car park opening hours?,W01Q04,What are the Sydney Opera House car park opening hours?
+W02,Where is the Sydney Opera House car park located?,W02Q01,Where can I find the Sydney Opera House car park?
+W02,Where is the Sydney Opera House car park located?,W02Q02,What is the location of the Sydney Opera House car park?
+W02,Where is the Sydney Opera House car park located?,W02Q03,Can you tell me where the Sydney Opera House car park is?
+W02,Where is the Sydney Opera House car park located?,W02Q04,Where is the Sydney Opera House car park located?
+W03,How do I get to the Sydney Opera House?,W03Q01,How can I get to the Sydney Opera House?
+W03,How do I get to the Sydney Opera House?,W03Q02,What ways can I use to reach the Sydney Opera House?
+W03,How do I get to the Sydney Opera House?,W03Q03,Can you tell me how to get to the Sydney Opera House?
+W03,How do I get to the Sydney Opera House?,W03Q04,How do I get to the Sydney Opera House?
+W04,How early should I arrive before an event at the Sydney Opera House?,W04Q01,How far in advance should I arrive for an event at the Sydney Opera House?
+W04,How early should I arrive before an event at the Sydney Opera House?,W04Q02,When should I arrive before my Sydney Opera House event?
+W04,How early should I arrive before an event at the Sydney Opera House?,W04Q03,How much earlier should I get to the Sydney Opera House before an event?
+W04,How early should I arrive before an event at the Sydney Opera House?,W04Q04,How early should I arrive before an event at the Sydney Opera House?
+W05,Are there bag checks and security screening at the Sydney Opera House?,W05Q01,Will my bags be checked before I enter the Sydney Opera House?
+W05,Are there bag checks and security screening at the Sydney Opera House?,W05Q02,Does the Sydney Opera House screen bags and belongings before entry?
+W05,Are there bag checks and security screening at the Sydney Opera House?,W05Q03,Do I need to go through bag and security checks at the Sydney Opera House?
+W05,Are there bag checks and security screening at the Sydney Opera House?,W05Q04,Are there bag checks and security screening at the Sydney Opera House?
+W06,Is accessible seating available at the Sydney Opera House?,W06Q01,Does the Sydney Opera House provide accessible seating?
+W06,Is accessible seating available at the Sydney Opera House?,W06Q02,Can I get wheelchair and companion seating at the Sydney Opera House?
+W06,Is accessible seating available at the Sydney Opera House?,W06Q03,Are there accessible seats for wheelchair users at the Sydney Opera House?
+W06,Is accessible seating available at the Sydney Opera House?,W06Q04,Is accessible seating available at the Sydney Opera House?
+W07,Are courtesy wheelchairs available at the Sydney Opera House?,W07Q01,Can I borrow a wheelchair at the Sydney Opera House?
+W07,Are courtesy wheelchairs available at the Sydney Opera House?,W07Q02,Does the Sydney Opera House provide courtesy wheelchairs?
+W07,Are courtesy wheelchairs available at the Sydney Opera House?,W07Q03,Can visitors use a courtesy wheelchair at the Sydney Opera House?
+W07,Are courtesy wheelchairs available at the Sydney Opera House?,W07Q04,Are courtesy wheelchairs available at the Sydney Opera House?
+W08,How long does the Sydney Opera House Tour take?,W08Q01,What is the duration of the Sydney Opera House Tour?
+W08,How long does the Sydney Opera House Tour take?,W08Q02,Approximately how much time does the Sydney Opera House Tour take?
+W08,How long does the Sydney Opera House Tour take?,W08Q03,How much time should I allow for the Sydney Opera House Tour?
+W08,How long does the Sydney Opera House Tour take?,W08Q04,How long does the Sydney Opera House Tour take?
+W09,Where is the meeting point for the Sydney Opera House Tour?,W09Q01,Where do I meet for the Sydney Opera House Tour?
+W09,Where is the meeting point for the Sydney Opera House Tour?,W09Q02,Where should I go to meet my Sydney Opera House Tour?
+W09,Where is the meeting point for the Sydney Opera House Tour?,W09Q03,What location do I need to go to for the Sydney Opera House Tour?
+W09,Where is the meeting point for the Sydney Opera House Tour?,W09Q04,Where is the meeting point for the Sydney Opera House Tour?
+W10,Do I need to book the Sydney Opera House Tour in advance?,W10Q01,Should I book the Sydney Opera House Tour ahead of time?
+W10,Do I need to book the Sydney Opera House Tour in advance?,W10Q02,Is advance booking recommended for the Sydney Opera House Tour?
+W10,Do I need to book the Sydney Opera House Tour in advance?,W10Q03,Should I purchase my Sydney Opera House Tour before I arrive?
+W10,Do I need to book the Sydney Opera House Tour in advance?,W10Q04,Do I need to book the Sydney Opera House Tour in advance?
+W11,What should I do if I lose something at the Sydney Opera House?,W11Q01,What should I do if I lose something at the Sydney Opera House?
+W12,What are the entry requirements for venues inside the Sydney Opera House?,W12Q01,What are the entry requirements for venues inside the Sydney Opera House?
+W13,What items are prohibited at the Sydney Opera House?,W13Q01,What items are prohibited at the Sydney Opera House?
+W14,Can I cloak bags or belongings at the Sydney Opera House?,W14Q01,Can I cloak bags or belongings at the Sydney Opera House?
+W15,Are there ATMs at the Sydney Opera House?,W15Q01,Are there ATMs at the Sydney Opera House?
+W16,Are baby changing facilities available at the Sydney Opera House?,W16Q01,Are baby changing facilities available at the Sydney Opera House?
+W17,Where are the bathrooms at the Sydney Opera House?,W17Q01,Where are the bathrooms at the Sydney Opera House?
+W18,Where is the Sydney Opera House Box Office?,W18Q01,Where is the Sydney Opera House Box Office?
+W19,Where is the Sydney Opera House gift shop?,W19Q01,Where is the Sydney Opera House gift shop?
+W20,Is there a public lift at the Sydney Opera House?,W20Q01,Is there a public lift at the Sydney Opera House?
+W21,Where is the Sydney Opera House Welcome Centre?,W21Q01,Where is the Sydney Opera House Welcome Centre?
+W22,Does the Sydney Opera House offer a courtesy bus or accessible buggy service?,W22Q01,Does the Sydney Opera House offer a courtesy bus or accessible buggy service?
+W23,Can I ride a bicycle to the Sydney Opera House?,W23Q01,Can I ride a bicycle to the Sydney Opera House?
+W24,Can vehicles access the Sydney Opera House forecourt?,W24Q01,Can vehicles access the Sydney Opera House forecourt?
+W25,How does the accessible buggy service at the Sydney Opera House work?,W25Q01,How does the accessible buggy service at the Sydney Opera House work?
+W26,Are private car services available for visitors with mobility needs?,W26Q01,Are private car services available for visitors with mobility needs?
+W27,Does the Sydney Opera House provide Auracast assisted listening?,W27Q01,Does the Sydney Opera House provide Auracast assisted listening?
+W28,Does the Sydney Opera House have a hearing loop?,W28Q01,Does the Sydney Opera House have a hearing loop?
+W29,What access options are available for visitors who have difficulty using stairs?,W29Q01,What access options are available for visitors who have difficulty using stairs?
+W30,Where are the accessible bathrooms at the Sydney Opera House?,W30Q01,Where are the accessible bathrooms at the Sydney Opera House?
+W31,What is the ticketing policy for wheelchair accessible seating?,W31Q01,What is the ticketing policy for wheelchair accessible seating?
+W32,Is there an accessible buggy service for visitors with limited mobility?,W32Q01,Is there an accessible buggy service for visitors with limited mobility?
+W33,When does the Sydney Opera House Tour run?,W33Q01,When does the Sydney Opera House Tour run?
+W34,How much does the Sydney Opera House Tour cost?,W34Q01,How much does the Sydney Opera House Tour cost?
+W35,Is the Sydney Opera House Tour accessible for visitors with mobility requirements?,W35Q01,Is the Sydney Opera House Tour accessible for visitors with mobility requirements?
+W36,How early should I arrive for the Sydney Opera House Tour?,W36Q01,How early should I arrive for the Sydney Opera House Tour?
+W37,What happens if I am late for the Sydney Opera House Tour?,W37Q01,What happens if I am late for the Sydney Opera House Tour?
+W38,What can I bring with me on the Sydney Opera House Tour?,W38Q01,What can I bring with me on the Sydney Opera House Tour?
+W39,Will the Sydney Opera House Tour go inside all of the theatres?,W39Q01,Will the Sydney Opera House Tour go inside all of the theatres?
+W40,Can I make a Sydney Opera House Tour booking for 10 people or more?,W40Q01,Can I make a Sydney Opera House Tour booking for 10 people or more?
+W41,Is free Wi-Fi available at the Sydney Opera House?,W41Q01,Is free Wi-Fi available at the Sydney Opera House?
+W42,Can I charge my phone at the Sydney Opera House?,W42Q01,Can I charge my phone at the Sydney Opera House?
+W43,Are pets allowed inside the Sydney Opera House?,W43Q01,Are pets allowed inside the Sydney Opera House?
+W44,Is there a pharmacy at the Sydney Opera House?,W44Q01,Is there a pharmacy at the Sydney Opera House?
+W45,Can I bring my own food into the Sydney Opera House?,W45Q01,Can I bring my own food into the Sydney Opera House?
+W46,Are there lockers available for visitors at the Sydney Opera House?,W46Q01,Are there lockers available for visitors at the Sydney Opera House?
+W47,Is there a post office at the Sydney Opera House?,W47Q01,Is there a post office at the Sydney Opera House?
+W48,Does the Sydney Opera House provide free drinking water for visitors?,W48Q01,Does the Sydney Opera House provide free drinking water for visitors?
+W49,Can I rent a phone charger at the Sydney Opera House?,W49Q01,Can I rent a phone charger at the Sydney Opera House?
+W50,Are there phone charging stations at the Sydney Opera House?,W50Q01,Are there phone charging stations at the Sydney Opera House?
