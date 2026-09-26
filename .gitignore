@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/collection/
+data/collection.jsonl
+data/qrels.txt
+target/indexes/

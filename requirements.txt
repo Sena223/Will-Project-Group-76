@@ -1,0 +1,4 @@
+pyserini
+ranx
+pandas
+faiss-cpu
