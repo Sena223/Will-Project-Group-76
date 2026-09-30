@@ -1,0 +1,6 @@
+Run: opera.rag.bm25
+  ndcg@1: 0.6857
+  ndcg@3: 0.6376
+  ndcg@5: 0.6433
+  recall@5: 0.6450
+  recall@10: 0.7943
